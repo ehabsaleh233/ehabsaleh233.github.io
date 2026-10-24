@@ -199,3 +199,4 @@ loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 odeeo.io, 118848844, RESELLER, 36cfd73091d5c3fc
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
+vungle.com, 6adcd038432de742530a32ba, DIRECT, c107d686becd2d77
